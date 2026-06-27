@@ -51,6 +51,16 @@ Use the normal AI Berkshire master checklist, but add these Korea gates:
    - Naver/portal data is only a watch trigger.
    - Before research conclusions: verify with DART filings, company IR, and at least one independent market-data source.
 
+## University / industry signal layer
+
+Korean equity work should also track a small number of university-industry signal sources. These are not investable assets, but they can show where talent, capstone projects, patent competitions, and industry mentoring are clustering before the signal appears in financial statements.
+
+Initial signal note:
+
+- `reports/한국장/한양대-산학클러스터-신호-20260628.md` — Hanyang ERICA as a semiconductor / AI / advanced mobility / renewable energy / digital transformation signal source.
+
+Use this layer only to generate better research questions. Any company-level conclusion still requires DART/company IR verification.
+
 ## Tooling
 
 - Watchlist: `data/korea_watchlist.json`
