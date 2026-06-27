@@ -1,0 +1,24 @@
+{
+  "kr_export_quality": [
+    {"code": "005930", "name": "Samsung Electronics", "theme": "memory/logic semiconductor", "watch_reason": "global scale, balance sheet, AI memory cycle"},
+    {"code": "000660", "name": "SK hynix", "theme": "HBM/DRAM", "watch_reason": "AI memory leadership, cyclical earnings power"},
+    {"code": "005380", "name": "Hyundai Motor", "theme": "global auto", "watch_reason": "cash generation, shareholder-return improvement"},
+    {"code": "000270", "name": "Kia", "theme": "global auto", "watch_reason": "ROE, cash return, valuation gap"}
+  ],
+  "kr_power_grid": [
+    {"code": "267260", "name": "HD Hyundai Electric", "theme": "transformers/grid equipment", "watch_reason": "grid capex and transformer shortage cycle"},
+    {"code": "298040", "name": "Hyosung Heavy Industries", "theme": "transformers/grid equipment", "watch_reason": "power-grid bottleneck exposure"},
+    {"code": "010120", "name": "LS ELECTRIC", "theme": "power automation/switchgear", "watch_reason": "industrial power, grid automation, data-center demand"}
+  ],
+  "kr_shipbuilding_defense": [
+    {"code": "329180", "name": "HD Hyundai Heavy Industries", "theme": "shipbuilding", "watch_reason": "cycle recovery, LNG/high-value vessels"},
+    {"code": "042660", "name": "Hanwha Ocean", "theme": "shipbuilding/defense", "watch_reason": "naval/shipbuilding turnaround watch"},
+    {"code": "012450", "name": "Hanwha Aerospace", "theme": "defense/aerospace", "watch_reason": "structural defense demand and exports"},
+    {"code": "079550", "name": "LIG Nex1", "theme": "defense electronics", "watch_reason": "missiles/sensors/export defense demand"}
+  ],
+  "kr_valueup_financials": [
+    {"code": "055550", "name": "Shinhan Financial Group", "theme": "bank/holding", "watch_reason": "low PBR, capital return sensitivity"},
+    {"code": "105560", "name": "KB Financial Group", "theme": "bank/holding", "watch_reason": "capital allocation and value-up proxy"},
+    {"code": "316140", "name": "Woori Financial Group", "theme": "bank/holding", "watch_reason": "low valuation, shareholder-return watch"}
+  ]
+}

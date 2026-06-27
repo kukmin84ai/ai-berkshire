@@ -5,3 +5,8 @@ reports/.DS_Store
 
 # 雪球爬虫登录态缓存（含 cookies，本地使用）
 /tmp/xueqiu_state.json
+
+# Local/generated market snapshots
+__pycache__/
+**/__pycache__/
+data/korea_market_snapshot.json
