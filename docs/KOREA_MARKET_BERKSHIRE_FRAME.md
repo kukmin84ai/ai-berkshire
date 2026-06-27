@@ -59,12 +59,18 @@ Initial signal note:
 
 - `reports/한국장/한양대-산학클러스터-신호-20260628.md` — Hanyang ERICA as a semiconductor / AI / advanced mobility / renewable energy / digital transformation signal source.
 
+Machine-readable registry and mapper:
+
+- `data/korea_university_signals.json`
+- `tools/korea_signal_mapper.py`
+
 Use this layer only to generate better research questions. Any company-level conclusion still requires DART/company IR verification.
 
 ## Tooling
 
 - Watchlist: `data/korea_watchlist.json`
 - Quote/index/scan helper: `tools/korea_market.py`
+- University/industry signal mapper: `tools/korea_signal_mapper.py`
 
 Examples:
 
@@ -72,6 +78,7 @@ Examples:
 python3 tools/korea_market.py quote 005930
 python3 tools/korea_market.py index KOSPI
 python3 tools/korea_market.py scan --output data/korea_market_snapshot.json
+python3 tools/korea_signal_mapper.py --output data/korea_signal_events.json
 ```
 
 ## Output discipline

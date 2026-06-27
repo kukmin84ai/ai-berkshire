@@ -10,3 +10,4 @@ reports/.DS_Store
 __pycache__/
 **/__pycache__/
 data/korea_market_snapshot.json
+data/korea_signal_events.json

@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "id": "hanyang_erica_icce",
+      "name": "Hanyang University ERICA Industry-Academia Cluster Education Team",
+      "url": "https://erica.hanyang.ac.kr/",
+      "source_type": "university_industry_signal",
+      "status": "active_watch",
+      "observed_at_kst": "2026-06-28",
+      "evidence": [
+        "ERICA industry-academia cluster pages list industry cooperation, capstone design, campus patent universiade, SSG, and Knowledge Studio programs.",
+        "2026 G7 RISE UP portfolio club notice lists semiconductor, AI/big data, advanced mobility, bio, renewable energy, quantum, and digital transformation fields.",
+        "2026 vibe-coding one-day class notice shows generative-AI service building entering industry-academia education workflows."
+      ],
+      "tags": [
+        "semiconductor",
+        "ai_big_data",
+        "advanced_mobility",
+        "renewable_energy",
+        "digital_transformation",
+        "power_electronics_watch"
+      ],
+      "basket_mapping": {
+        "semiconductor": ["kr_export_quality"],
+        "advanced_mobility": ["kr_export_quality"],
+        "renewable_energy": ["kr_power_grid"],
+        "power_electronics_watch": ["kr_power_grid"],
+        "digital_transformation": ["kr_power_grid", "kr_export_quality"],
+        "ai_big_data": ["kr_export_quality", "kr_power_grid"]
+      },
+      "action_label": "map_to_watchlist",
+      "verification_gate": "Company-level conclusions require DART filings, company IR, and financial cross-checks."
+    }
+  ]
+}
